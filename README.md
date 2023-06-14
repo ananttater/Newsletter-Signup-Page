@@ -1,15 +1,30 @@
-# README
+# Newsletter Sign-up Page
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+Visit Website: https://newsletter-signup-f034.onrender.com
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
+<hr></hr>
 
-## Deployment
+## Purpose
+The Newsletter Sign Up Page serves as a platform for users to subscribe to a newsletter or updates from a specific website or organization. It allows website owners to collect user information such as names and email addresses to build a subscriber base for sending newsletters or other communications.
 
-See https://render.com/docs/deploy-node-express-app or follow the steps below:
+## Features
+1. User-friendly interface for easy sign-up.
+2. Input fields for capturing user information (e.g., first name, last name, email address).
+3. Subscription confirmation message.
+4. Error handling for invalid inputs or form submissions.
 
-Create a new web service with the following values:
-  * Build Command: `yarn`
-  * Start Command: `node app.js`
+## Used
+1. HTML
+2. CSS
+3. JavaScript
+4. Node.js
+5. Express.js
 
-That's it! Your web service will be live on your Render URL as soon as the build finishes.
+And used render [https://render.com/] to host the website.
+
+## Screenshots
+![image](https://github.com/ananttater/Newsletter-Signup-Page/assets/77228263/a37bf834-57bf-4b70-82a0-62c4b56476a8)
+
+![image](https://github.com/ananttater/Newsletter-Signup-Page/assets/77228263/1d03912c-1241-439f-8afa-bcb027168749)
+
+![image](https://github.com/ananttater/Newsletter-Signup-Page/assets/77228263/913d03fa-2070-4d61-becb-d083d8b77a6f)
